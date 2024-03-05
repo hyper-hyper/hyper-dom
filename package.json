@@ -1,11 +1,15 @@
 {
-  "name": "@hyper-hyper/hyper-dom",
+  "name": "@hyper-hyper/hyper-parser",
   "description": "Browser DOM & HTML Parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Mikita Stankiewicz",
     "email": "itsmikita@gmail.com",
     "url": "https://github.com/itsmikita"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/hyper-hyper/hyper-parser.git"
   },
   "private": "true",
   "main": "src/api.ts",
