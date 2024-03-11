@@ -1,0 +1,12 @@
+/Users/itsmikita/git/@hyper-hyper/hyper-parser/target/debug/deps/libmac-0f1c497f4a60ac72.rmeta: /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/lib.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/test.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/mem.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/format.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/syntax_ext.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/matches.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/inspect.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/cfg.rs
+
+/Users/itsmikita/git/@hyper-hyper/hyper-parser/target/debug/deps/mac-0f1c497f4a60ac72.d: /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/lib.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/test.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/mem.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/format.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/syntax_ext.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/matches.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/inspect.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/cfg.rs
+
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/lib.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/test.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/mem.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/format.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/syntax_ext.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/matches.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/inspect.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mac-0.1.1/src/cfg.rs:

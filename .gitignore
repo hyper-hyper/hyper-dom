@@ -1,11 +1,8 @@
-html-parser/*/target
-build/linux-x86_64
 Cargo.lock
 bun.lockb
 deno.lock
 node_modules
 .deno_plugins
-/target
 *~
 /.vim
 /.vscode

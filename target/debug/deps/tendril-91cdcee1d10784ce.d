@@ -1,0 +1,11 @@
+/Users/itsmikita/git/@hyper-hyper/hyper-parser/target/debug/deps/libtendril-91cdcee1d10784ce.rmeta: /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/Users/itsmikita/git/@hyper-hyper/hyper-parser/target/debug/deps/tendril-91cdcee1d10784ce.d: /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs:
+/Users/itsmikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs:
